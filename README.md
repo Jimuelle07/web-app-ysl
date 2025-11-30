@@ -1,9 +1,9 @@
 # web-app-ysl
-ysl connect
+asl connect
 
 -----
 
-# 🤟 YSL Connect: Real-Time Sign Language to Text
+# 🤟 ASL Connect: Real-Time Sign Language to Text
 
 > **Bridging the communication gap between the Deaf community and the hearing world through AI.**
 
