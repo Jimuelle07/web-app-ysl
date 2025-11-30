@@ -1,10 +1,6 @@
 # web-app-ysl
 ysl connect
 
-This is a fantastic, well-structured technical plan. The separation of concerns between the React frontend (for lightweight capture/rendering) and the FastAPI backend (for heavy inference) is the industry standard for this type of application.
-
-Here is a professional, GitHub-ready **README.md** tailored to your specific architecture and project description.
-
 -----
 
 # 🤟 YSL Connect: Real-Time Sign Language to Text
